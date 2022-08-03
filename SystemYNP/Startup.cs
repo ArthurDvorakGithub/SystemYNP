@@ -43,7 +43,7 @@ namespace SystemYNP
                 q.AddTrigger(t => t
                     .WithIdentity("Cron Trigger")
                     .ForJob(jobKey)
-                    .WithCronSchedule("0 0 7 ? * * *")
+                    .WithCronSchedule("0 25 9 ? * * *")
                 );
             });
             services.AddTransient<UserNotificationJob>();
