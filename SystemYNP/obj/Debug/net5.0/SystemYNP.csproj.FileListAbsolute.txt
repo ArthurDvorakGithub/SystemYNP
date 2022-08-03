@@ -1,0 +1,244 @@
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\appsettings.json
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.exe
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.deps.json
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.runtimeconfig.json
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.runtimeconfig.dev.json
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\ref\SystemYNP.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.pdb
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.Views.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.Views.pdb
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.csproj.AssemblyReference.cache
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.AssemblyInfoInputs.cache
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.AssemblyInfo.cs
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.RazorAssemblyInfo.cache
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.RazorAssemblyInfo.cs
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\staticwebassets\SystemYNP.StaticWebAssets.Manifest.cache
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\staticwebassets\SystemYNP.StaticWebAssets.xml
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\scopedcss\bundle\SystemYNP.styles.css
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.TagHelpers.input.cache
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.TagHelpers.output.cache
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.RazorCoreGenerate.cache
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.RazorTargetAssemblyInfo.cache
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.RazorTargetAssemblyInfo.cs
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.Views.pdb
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\ref\SystemYNP.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.pdb
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.genruntimeconfig.cache
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.csproj.CopyComplete
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\YNP\Index.cshtml.g.cs
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\YNP\Create.cshtml.g.cs
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\YNP\Delete.cshtml.g.cs
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\YNP\Edit.cshtml.g.cs
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\Quartz.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\Quartz.AspNetCore.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\Quartz.Extensions.DependencyInjection.dll
+C:\Users\Arthur\source\repos\SystemYNP\SystemYNP\bin\Debug\net5.0\Quartz.Extensions.Hosting.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\appsettings.json
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.StaticWebAssets.xml
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.exe
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.deps.json
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.runtimeconfig.json
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.runtimeconfig.dev.json
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.pdb
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.Views.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.Views.pdb
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\Humanizer.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\MailKit.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\MimeKit.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\Quartz.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\Quartz.AspNetCore.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\Quartz.Extensions.DependencyInjection.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\Quartz.Extensions.Hosting.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projects\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.csproj.AssemblyReference.cache
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.AssemblyInfoInputs.cache
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.AssemblyInfo.cs
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.csproj.CoreCompileInputs.cache
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.RazorAssemblyInfo.cache
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.RazorAssemblyInfo.cs
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\scopedcss\bundle\SystemYNP.styles.css
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\staticwebassets\SystemYNP.StaticWebAssets.Manifest.cache
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.TagHelpers.input.cache
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.TagHelpers.output.cache
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.RazorCoreGenerate.cache
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\YNP\Create.cshtml.g.cs
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\YNP\Delete.cshtml.g.cs
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\YNP\Edit.cshtml.g.cs
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\YNP\Index.cshtml.g.cs
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.RazorTargetAssemblyInfo.cache
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.RazorTargetAssemblyInfo.cs
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.Views.pdb
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.csproj.CopyComplete
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.dll
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\refint\SystemYNP.dll
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.pdb
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.genruntimeconfig.cache
+C:\Projects\SystemYNP\SystemYNP\obj\Debug\net5.0\ref\SystemYNP.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\appsettings.json
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.exe
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.deps.json
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.runtimeconfig.json
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.runtimeconfig.dev.json
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\ref\SystemYNP.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.pdb
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.Views.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\SystemYNP.Views.pdb
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\MailKit.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\Quartz.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\Quartz.AspNetCore.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\Quartz.Extensions.DependencyInjection.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\Quartz.Extensions.Hosting.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.AssemblyInfoInputs.cache
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.AssemblyInfo.cs
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.RazorAssemblyInfo.cache
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.RazorAssemblyInfo.cs
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\staticwebassets\SystemYNP.StaticWebAssets.Manifest.cache
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\staticwebassets\SystemYNP.StaticWebAssets.xml
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\scopedcss\bundle\SystemYNP.styles.css
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.TagHelpers.input.cache
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.TagHelpers.output.cache
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.RazorCoreGenerate.cache
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\YNP\Create.cshtml.g.cs
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\YNP\Delete.cshtml.g.cs
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\YNP\Edit.cshtml.g.cs
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\YNP\Index.cshtml.g.cs
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.RazorTargetAssemblyInfo.cache
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.RazorTargetAssemblyInfo.cs
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.Views.pdb
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.csproj.CopyComplete
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\ref\SystemYNP.dll
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.pdb
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.genruntimeconfig.cache
+C:\Users\Arthur\Downloads\Telegram Desktop\SystemYNP (3)\SystemYNP\SystemYNP\obj\Debug\net5.0\SystemYNP.csproj.AssemblyReference.cache
